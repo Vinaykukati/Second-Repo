@@ -41,7 +41,7 @@ public with sharing class ContactListPageCCController {
 
 
     public PageReference next() {
-        //pageNum++; These are changes
+        //pageNum++; These are the changes
 
         return null;
     }
